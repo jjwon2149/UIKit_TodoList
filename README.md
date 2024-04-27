@@ -28,13 +28,11 @@
 
 ## Features
 
-아래의 기능들을 쌉 사용가능 :
+아래의 기능들을 사용가능 :
 
 * UserDefault 를 사용하여 데이터 저장
 * TableView 를 사용하여 할일 데이터 UserDefault 를 불러와 목록 구현
 * 체크박스를 커스텀하여 사용
-
-
 
 
 ## Contributors
